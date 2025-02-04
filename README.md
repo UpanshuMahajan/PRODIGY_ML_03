@@ -38,7 +38,7 @@ Open the SVM_MODEL.ipynb notebook and execute the cells step by step.
 
 jupyter notebook SVM_MODEL.ipynb
 
-##📝 Future Improvements
+## 📝 Future Improvements
 ✔️ Implement Convolutional Neural Networks (CNNs) for better feature extraction.
 ✔️ Experiment with different kernels and hyperparameters to improve SVM performance.
 ✔️ Apply data augmentation techniques to enhance generalization.
