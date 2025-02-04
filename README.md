@@ -1,7 +1,7 @@
-📌 Overview
+## 📌 Overview
 This project implements an SVM (Support Vector Machine) model to classify images of cats and dogs using image feature extraction techniques. The dataset consists of labeled images, and the model aims to distinguish between the two classes effectively.
 
-📂 Dataset
+## 📂 Dataset
 The dataset consists of images of cats and dogs from the Kaggle Dogs vs. Cats dataset.
 Each image is preprocessed and converted into features before classification.
 🛠️ Methodology
@@ -18,7 +18,7 @@ Evaluation:
 
 Measured accuracy using training and test datasets.
 Analyzed confusion matrix and classification reports.
-📌 Results
+## 📌 Results
 Training Accuracy: 99.5%
 Testing Accuracy: 86.4%
 The model performed well on training data but had scope for improvement in generalization.
@@ -36,9 +36,9 @@ cd SVM-Classification-of-Cats-and-Dogs
 🔹 Run the Jupyter Notebook
 Open the SVM_MODEL.ipynb notebook and execute the cells step by step.
 
-
 jupyter notebook SVM_MODEL.ipynb
-📝 Future Improvements
+
+##📝 Future Improvements
 ✔️ Implement Convolutional Neural Networks (CNNs) for better feature extraction.
 ✔️ Experiment with different kernels and hyperparameters to improve SVM performance.
 ✔️ Apply data augmentation techniques to enhance generalization.
